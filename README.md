@@ -1,5 +1,5 @@
 # Voicer
-Simple python graphic application for voice modulation. It 
+Simple python graphic application for voice modulation.
 
 
 It works only on UNIX.  
